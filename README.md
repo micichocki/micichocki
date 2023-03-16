@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mitzhi
+- 👋 Hi, I’m @micichocki
 - 👀 I’m interested in webdev
 - 🌱 I’m currently learning html/css
 - 💞️ I’m looking to collaborate on ...

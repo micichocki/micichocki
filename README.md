@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @micichocki
-- 👀 I’m interested in webdev
-- 🌱 I’m currently learning javascript
+- 👀 I’m interested in webdev 
 - 📫 How to reach me cichockimichal849@gmail.com
 
 <!---

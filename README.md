@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @micichocki
-- 👀 I’m interested in webdev 
+- 👀 I’m interested in datascience/webdeb
 - 📫 How to reach me cichockimichal849@gmail.com
 
 <!---

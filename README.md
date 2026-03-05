@@ -26,7 +26,6 @@ I am interested in everything related to Backend Development and Data Science.
 
 #### Databases
 <p align="left">
-  <img src="https://img.shields.io/badge/SQL-CC0000?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
@@ -36,13 +35,6 @@ I am interested in everything related to Backend Development and Data Science.
 
 ### Reach Me
 
-<p align="left">
-  <a href="mailto:cichockimichal849@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/micha%C5%82-cichocki/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+* **Email:** [cichockimichal849@gmail.com](mailto:cichockimichal849@gmail.com)
+* **LinkedIn:** [Michał Cichocki](https://www.linkedin.com/in/micha%C5%82-cichocki/)
 
----
